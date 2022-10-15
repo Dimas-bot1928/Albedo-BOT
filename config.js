@@ -68,9 +68,9 @@ global.psaweria = 'https://saweria.com/'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '62XXXXXXXXXXX'
-global.nomorown = '62895604670507'
-global.namebot = 'AlbedoBotz'
-global.nameown = 'Zenss'
+global.nomorown = '6283136890848'
+global.namebot = 'RagilBotz'
+global.nameown = 'Agilbot'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = 'RaaaGH' // nama github lu
@@ -85,7 +85,7 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['62895604670507', 'Zenss', true], 
+  ['6283136890848', 'RagilBot', true], 
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true]
@@ -137,14 +137,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Albedo-BOT 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Albedo-BOT ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Albedo-BOT '
+global.wm = '                「 Ragil_Bot 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ragil_Bot ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Ragil-BOT '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By Zenss`
-global.packname = 'Albedo-Botz WhatsApp'
-global.author = '                「 Albedo-BOT  あ」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By Ragil`
+global.packname = 'Ragil-Botz WhatsApp'
+global.author = '                「 Ragil-BOT  あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
